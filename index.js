@@ -1,4 +1,4 @@
-const drvier = {}
+const driver = {}
 
 function updateDriverWithKeyAndValue(obj, key, val) {
   const newObj = {}
